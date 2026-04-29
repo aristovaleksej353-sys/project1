@@ -18,5 +18,8 @@
 - planned_year — планируемый год поездки
 - days_count — количество дней
   -date_returned — дата возвращения
-
+Таблицы:
+<img width="2133" height="2560" alt="photo2" src="https://github.com/user-attachments/assets/19dff371-2824-4942-b826-b1e0c950e809" />
+<img width="2097" height="2560" alt="photo3" src="https://github.com/user-attachments/assets/e3c7c716-2c1f-4082-98d3-c4bba7960fe5" />
+<img width="2154" height="2560" alt="photo 4" src="https://github.com/user-attachments/assets/afc8347b-603e-4011-9001-581dd520c528" />
 
