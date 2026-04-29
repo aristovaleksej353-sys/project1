@@ -1,6 +1,8 @@
 -- SELECT * from users
 -- SELECT * from countries
 -- SELECT * from travel_plans
+-- SELECT name,age, from users where age > 25
+-- SELECT best_season from countries
 --SELECT * from users WHERE age > 18
 --SELECT * from users where name = 'Анна'
 -- SELECT * from users where age = '18'
