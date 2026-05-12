@@ -1,0 +1,22 @@
+-- SELECT * from users
+-- SELECT * from countries
+-- SELECT * from travel_plans
+-- SELECT name,age, from users where age > 25
+-- SELECT best_season from countries
+--SELECT * from users WHERE age > 18
+--SELECT * from users where name = 'Анна'
+-- SELECT * from users where age = '18'
+--SELECT * FROM travel_plans where planned_year = '2025'
+--SELECT * from countries WHERE best_season = 'май-сентябрь'
+--SELECT * FROM travel_plans where planned_year = '2026'
+-- SELECT * from users where name = 'Надя'
+-- SELECT * from travel_plans where planned_year = 2025 AND days_count > 7
+--SELECT * from travel_plans where planned_year = 2026 AND days_count < 15
+--SELECT * FROM travel_plans where planned_year = '2030'
+-- SELECT * from users where id = '22'
+-- SELECT * from countries where has_sea = '1'
+-- SELECT * from countries where has_sea = '0'
+--SELECT * FROM travel_plans where days_count = '10'
+--SELECT * from countries where has_sea = '1' and best_season = 'май-сентябрь'
+--SELECT * FROM travel_plans where planned_year = '2026' AND date_returned = '2025-07-20'
+--SELECT * FROM travel_plans where date_returned
