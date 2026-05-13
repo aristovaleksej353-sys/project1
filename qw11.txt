@@ -1,0 +1,21 @@
+--SELECT * FROM users WHERE name IN ('Анна', 'Петя', 'Илья')
+--SELECT * FROM countries WHERE name IN ('Италия', 'Франция', 'Япония')
+--SELECT * FROM travel_plans WHERE planned_year IN (2025, 2026)
+--SELECT * FROM users WHERE age IN (17, 18, 19, 20)
+--SELECT * FROM countries WHERE name IN ('Италия', 'Испания', 'Греция', 'Турция')
+--SELECT * FROM travel_plans WHERE users_id IN (1, 2, 3, 4, 5)
+--SELECT * FROM countries WHERE best_season IN ('май-сентябрь', 'июнь-сентябрь', 'май-октябрь')
+--SELECT name, age FROM users WHERE age BETWEEN 20 AND 30
+--SELECT * FROM travel_plans WHERE days_count BETWEEN 5 AND 15
+--SELECT * FROM travel_plans WHERE planned_year BETWEEN 2025 AND 2027
+--SELECT * FROM countries WHERE id BETWEEN 5 AND 20
+--SELECT users_id, date_returned FROM travel_plans WHERE days_count BETWEEN 8 and 20 
+--SELECT users_id, planned_year FROM travel_plans WHERE planned_year BETWEEN 2024 AND 2026
+--SELECT name, has_sea FROM countries WHERE id BETWEEN 10 AND 25
+--select * from users where 14 and 19
+--SELECT * FROM users where age>15 and 25<age
+--SELECT name from users where name = 'Анна' or 'Вероника'
+--SELECT name FROM users WHERE name IS NULL
+--SELECT * FROM travel_plans WHERE date_returned IS NULL
+--SELECT * FROM travel_plans WHERE date_returned IS NOT NULL
+--SELECT users_id, planned_year FROM travel_plans WHERE date_returned IS NOT NULL
